@@ -383,7 +383,7 @@ Cu această caracteristică puternic putem face chiar spirale.
 
 ###### [![](http://orobo.go.ro:3500/file/AnNnDaf2HrmyHBTYE/0.04/notemplate)](http://orobo.go.ro:3500/filem/AnNnDaf2HrmyHBTYE) Linie simetria Group
 
-[![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [![](http://orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
+[![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [![](http://orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file/zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
 
 Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie pentru construirea de clone Simetric ale căii, în raport cu linia.
 
