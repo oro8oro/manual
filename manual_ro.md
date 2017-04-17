@@ -2,7 +2,7 @@
 
 # Orobo.ro
 
-## Considerente Generale
+## Despre
 
 Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (grafică vectorială scalabilă).
 
@@ -10,7 +10,7 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 * (!) = Facilitate la locul de muncă
 
-## Bugs cunoscute
+## Bug-uri cunoscute
 
 ! [] (Http://orobo.go.ro:3500/images/tutorial/fileinfo.png)
 
@@ -19,20 +19,20 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 ## Caracteristici unice
 
-* Colaborarea în direct (orice modificare făcută de un designer este redat instantaneu pentru oricine care are de editare sau de vizualizare permisiuni pe documentul)
+* Colaborarea în direct (orice modificare făcută de un designer va fi redată instant pentru toţi utilizatorii cu permisiuni de vizionare sau editare asupra documentului)
 
 [! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser2.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
 [! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser3.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
 
 * Bază de date on-line a operelor reutilizabile (oricine poate reutiliza lucrări sau părți din baza de date publică)
 
-* Morphing caracteristică pentru animații (în lucru)
+* Functie de Morphing pentru animații (în lucru)
 * Animație 2D (în lucru)
 * grafica SVG țestoasă
-* Redare fractal vectoriala de reguli matematice
+* Redare fractal şi vectorială de reguli matematice
 * Operații booleene pe poligoane, cu posibilitatea de a transforma elemente cu curbe în poligoane cu mai multe linii
-* Mod de prezentare pentru lucrări create (de asemenea, poate fi folosit ca o aplicatie Power Point sau ca o galerie de portofoliu)
-* Protocoale de gestionare a drepturilor de atribuire și
+* Mod de prezentare pentru lucrările create (de asemenea, poate fi folosit ca o aplicatie Power Point sau ca o galerie de portofoliu)
+* Protocoale de gestionare a drepturilor de atribuire
 * gratuit
 
 
@@ -40,40 +40,40 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 [! [] (Http://orobo.go.ro:3500/file/mQa8FQtSDWpLaYy38/0.2/notemplate)] (http://orobo.go.ro:3500/filem/mQa8FQtSDWpLaYy38)
 
-* Toate problemele legate de crearea de diferite tipuri de rezoluții (pentru proiectarea aplicații mobile, componente de jocuri etc.) au dispărut. Pot fi scalate la infinit!
-* Nu există pixeli urâtă când măriți
+* Toate problemele legate de scalarea la diferite rezoluții (pentru proiectarea aplicațiilor mobile, componente de jocuri etc.) au dispărut. Pot fi scalate la infinit!
+* Nu există pixeli urâţi când măriți
 * [Semantic Web] (http://www.w3.org/standards/semanticweb/) prietenos
-* Posibilități nelimitate de extindere: animație, benzi desenate, atlase cu svg componente și straturi de conectori și etichete.
+* Posibilități nelimitate de extindere: animație, benzi desenate, atlase cu componente SVG și straturi de conectori și etichete.
 
-## Deschideți Design & Open Source
+## Open Design & Open Source
 
-Acesta este un proiect open source, sub licență GPLv3. Oroboro va rămâne liber pentru oricine care contribuie la comunitate prin eliberarea muncii lor sub o licență comparabilă. Am putea crede despre găzduirea unui număr limitat de lucrări private gratuit.
+Acesta este un proiect open source, sub licență GPLv3. Oroboro va rămâne liber pentru oricine care contribuie comunitaţii prin eliberarea muncii lor sub o licență comparabilă. Ne gandim la gazduirea unui numar limitat de lucrari private gratuit.
 
-Noi construim o comunitate de design axat pe abilitarea de colaborare și reutilizabil, la fel ca comunitățile open source pentru programatori. Distribuiți pentru a primi și de a fi observat.
+Noi dorim să construim o comunitate de design axată pe abilitarea de colaborare și reutilizare, la fel ca comunitățile open source pentru programatori. Imparţiţi pentru a primi la rândul vostru și pentru a fi observat.
 
 
-## Cum să Start
+## Cum să incepeţi
 
-* [A crea un cont] (http://orobo.go.ro:3500/) și clona un fișier din FileBrowser cu [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04 )] (http://orobo.go.ro:3500/filem/menuItemClone) sau du-te la nostru [Playground] (http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
+* [Creaţi un cont] (http://orobo.go.ro:3500/) și clonaţi un fișier din FileBrowser cu [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04 )] (http://orobo.go.ro:3500/filem/menuItemClone) sau duceţi-vă pe [Playground] (http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
 
 ! [] (Http://orobo.go.ro:3500/images/tutorial/addElement.png)
 
-* Crearea de noi elemente este acum face prin apasarea butonului addElement din meniul de control al fișierului și apoi editarea ei (aspect, geometrie, puncte de cale etc.)
+* (singura metodă de creeare a unui element) Crearea de noi elemente se face prin apăsarea butonului addElement din filebrowser și apoi editarea lui (aspect, geometrie, punctele path-ului etc.)
 
 
 [! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser4.png)] (http://orobo.go.ro:3500/browse/file/4wtih642DRCZ5eFxq/1/5)
 
-## Browser de fișiere
+## Filebrowser
 
-### Filebrowser Meniu
+### Meniu Filebrowser
 
 #### [! [] (Http://orobo.go.ro:3500/file/menuItemEdit/0.04)] (http://orobo.go.ro:3500/filem/menuItemEdit) Editare fișier
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04)] (http://orobo.go.ro:3500/filem/menuItemClone) Fișier Clone
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemDelete/0.04)] (http://orobo.go.ro:3500/filem/menuItemDelete) Ștergere fișiere
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemExport/0.04)] (http://orobo.go.ro:3500/filem/menuItemExport) fișier de export
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemSearch/0.04)] (http://orobo.go.ro:3500/filem/menuItemSearch) Vizualizare fișiere
+#### [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04)] (http://orobo.go.ro:3500/filem/menuItemClone) Clonare fișier
+#### [! [] (Http://orobo.go.ro:3500/file/menuItemDelete/0.04)] (http://orobo.go.ro:3500/filem/menuItemDelete) Ștergere fișier
+#### [! [] (Http://orobo.go.ro:3500/file/menuItemExport/0.04)] (http://orobo.go.ro:3500/filem/menuItemExport) Export fișier
+#### [! [] (Http://orobo.go.ro:3500/file/menuItemSearch/0.04)] (http://orobo.go.ro:3500/filem/menuItemSearch) Vizualizare fișier
 
-### FileBrowser Icoane
+### Iconiţele din Filebrowser
 
 #### [! [] (Http://orobo.go.ro:3500/file/menuItemFolder/0.04)] (http://orobo.go.ro:3500/filem/menuItemFolder) Folder
 
@@ -90,15 +90,15 @@ Această pictogramă vă arată că fișierul are grupuri sub ea pe care le pute
 Aceasta este calea folderului curent, cu rădăcina Oroboro ca primul miez.
 
 
-## Oroboro Editor
+## Editorul Oroboro
 
 ### Caracteristici generale
 
-* Mări și micșora cu mouse-ul
+* Mărire și micșorare cu mouse-ul
 * Pan făcând clic pe fundalul alb și trăgând-
-* Un / blocare pan & zoom făcând clic pe pictograma de blocare - [! [] (Http://orobo.go.ro:3500/file/2j4FekqSWwTfFGSeX/0.02)] din dreapta jos de colț (http://orobo.go.ro:3500 / filem / 2j4FekqSWwTfFGSeX)
+* De / blocare pan & zoom făcând clic pe pictograma de blocare - [! [] (Http://orobo.go.ro:3500/file/2j4FekqSWwTfFGSeX/0.02)] din dreapta jos de colț (http://orobo.go.ro:3500 / filem / 2j4FekqSWwTfFGSeX)
 * Minimap a documentului (fișier) și pânza (fundal alb), în colțul din dreapta jos
-* Selecta elemente făcând clic pe acestea, multiple selectați de Shift + clic pe acestea sau prin utilizarea Shift + tragere.
+* Selectare elemente făcând clic pe acestea, selectii multiple cu Shift + clic pe acestea sau prin utilizarea Shift + tragere.
 
 
 ### Articole
@@ -111,31 +111,31 @@ Aceasta este calea folderului curent, cu rădăcina Oroboro ca primul miez.
 * Doar linii drepte: 'M870 512L153 925L153 98L870 512Z'
 * Important pentru a face [operații booleene] (http://en.wikipedia.org/wiki/Boolean_operations_on_polygons))
 
-###### [! [] (Http://orobo.go.ro:3500/file/eAywEx5e5cNwe6BpC/0.04)] (http://orobo.go.ro:3500/filem/eAywEx5e5cNwe6BpC) Cale Complex
+###### [! [] (Http://orobo.go.ro:3500/file/eAywEx5e5cNwe6BpC/0.04)] (http://orobo.go.ro:3500/filem/eAywEx5e5cNwe6BpC) Cale Complexă
 
 * Cu toate curbele simplificate pentru curbe Bezier cubi: 'M112 512C112 291 291 112 512 112 912 291 112C732 912 733 733 912 512C912 512 912C291 912 112 733 112 512Z')
 
 ##### [! [] (Http://orobo.go.ro:3500/file/sh8BiMTztrdGXaPsS/0.04)] (http://orobo.go.ro:3500/filem/sh8BiMTztrdGXaPsS) Raster Image
 ##### [! [] (Http://orobo.go.ro:3500/file/AETqEKboPMEEnPHkj/0.04)] (http://orobo.go.ro:3500/filem/AETqEKboPMEEnPHkj) Text
-##### [! [] (Http://orobo.go.ro:3500/file/44W6oHqR5woPp474S/0.04)] (http://orobo.go.ro:3500/filem/44W6oHqR5woPp474S) Cale parametrizat
+##### [! [] (Http://orobo.go.ro:3500/file/44W6oHqR5woPp474S/0.04)] (http://orobo.go.ro:3500/filem/44W6oHqR5woPp474S) Cale parametrizată
 
-###### simple Căi parametrizat
-###### Complex Căi parametrizat
+###### Căi simple parametrizate
+###### Căi complexe parametrizate
 Căi bazate pe Funcții ######
 
-####### [! [] (Http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.04)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm) cartezian Grafice pentru Funcții
+####### [! [] (Http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.04)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm) Grafice carteziene pentru funcții
 
 De exemplu, `3 * Math.sin (3 * x)` este funcția utilizată pentru
 
 [! [] (Http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.2)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm)
 
-####### [! [] (Http://orobo.go.ro:3500/file/srWR38tZRknYDeSbJ/0.04)] (http://orobo.go.ro:3500/filem/srWR38tZRknYDeSbJ) Polar Grafice pentru Funcții
+####### [! [] (Http://orobo.go.ro:3500/file/srWR38tZRknYDeSbJ/0.04)] (http://orobo.go.ro:3500/filem/srWR38tZRknYDeSbJ)  Grafice polare pentru Funcții
 
 De exemplu, `Math.cos (7/4 * x)` este funcția utilizată pentru
 
 [! [] (Http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.2)] (http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S)
 
-Mai multe funcții pentru spirale archimedeană și trandafiri polari la [graficele-of-polare ecuații] (http://www.mathamazement.com/Lessons/Pre-Calculus/06_Additional-Topics-in-Trigonometry/graphs-of-polar-equations .html). Asigurați-vă că vă oferă o gamă suficient de mare pentru unghiul polar theta.
+Mai multe funcții pentru spirală archimedeană și trandafiri polari la [graficele-of-polare ecuații] (http://www.mathamazement.com/Lessons/Pre-Calculus/06_Additional-Topics-in-Trigonometry/graphs-of-polar-equations .html). Asigurați-vă că vă oferă o gamă suficient de mare pentru unghiul polar theta.
 
 
 ##### [! [] (Http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.04)] (http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD) Formulele
