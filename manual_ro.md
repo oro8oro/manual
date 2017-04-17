@@ -1,4 +1,4 @@
-[! [] (Http://orobo.go.ro:3500/file/JZXXMo5N38iwgfNAG/0.2/notemplate)] (http://orobo.go.ro:3500/browse/file/JZXXMo5N38iwgfNAG/1/3)
+[![](http://orobo.go.ro:3500/file/JZXXMo5N38iwgfNAG/0.2/notemplate)] (http://orobo.go.ro:3500/browse/file/JZXXMo5N38iwgfNAG/1/3)
 
 # Orobo.ro
 
@@ -12,7 +12,7 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 ## Bug-uri cunoscute
 
-! [] (Http://orobo.go.ro:3500/images/tutorial/fileinfo.png)
+![](http://orobo.go.ro:3500/images/tutorial/fileinfo.png)
 
 * Atunci când nu se poate selecta un element / grup, după o acțiune, vă rugăm să faceți clic din meniul de control reîncărcare al fișierului sau încărcarea paginii.
 * Atunci când creați un grup parametrizat (cu punctul Symmetry, Linie Simetria, Articol Array) puteți selecta grupul numai prin selectarea elementului original (calea) utilizat pentru crearea sau prin utilizarea Shift + trageți mouse-ul.
@@ -21,8 +21,8 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 * Colaborarea în direct (orice modificare făcută de un designer va fi redată instant pentru toţi utilizatorii cu permisiuni de vizionare sau editare asupra documentului)
 
-[! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser2.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
-[! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser3.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
+[![](http://orobo.go.ro:3500/images/tutorial/filebrowser2.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
+[![](http://orobo.go.ro:3500/images/tutorial/filebrowser3.png)] (http://orobo.go.ro:3500/browse/file/ZzhbWoiGpMEoA9i3M/1/5)
 
 * Bază de date on-line a operelor reutilizabile (oricine poate reutiliza lucrări sau părți din baza de date publică)
 
@@ -38,7 +38,7 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 ## De ce SVG
 
-[! [] (Http://orobo.go.ro:3500/file/mQa8FQtSDWpLaYy38/0.2/notemplate)] (http://orobo.go.ro:3500/filem/mQa8FQtSDWpLaYy38)
+[![](http://orobo.go.ro:3500/file/mQa8FQtSDWpLaYy38/0.2/notemplate)] (http://orobo.go.ro:3500/filem/mQa8FQtSDWpLaYy38)
 
 * Toate problemele legate de scalarea la diferite rezoluții (pentru proiectarea aplicațiilor mobile, componente de jocuri etc.) au dispărut. Pot fi scalate la infinit!
 * Nu există pixeli urâţi când măriți
@@ -54,36 +54,36 @@ Noi dorim să construim o comunitate de design axată pe abilitarea de colaborar
 
 ## Cum să incepeţi
 
-* [Creaţi un cont] (http://orobo.go.ro:3500/) și clonaţi un fișier din FileBrowser cu [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04 )] (http://orobo.go.ro:3500/filem/menuItemClone) sau duceţi-vă pe [Playground] (http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
+* [Creaţi un cont] (http://orobo.go.ro:3500/) și clonaţi un fișier din FileBrowser cu [![](http://orobo.go.ro:3500/file/menuItemClone/0.04 )] (http://orobo.go.ro:3500/filem/menuItemClone) sau duceţi-vă pe [Playground] (http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
 
-! [] (Http://orobo.go.ro:3500/images/tutorial/addElement.png)
+![](http://orobo.go.ro:3500/images/tutorial/addElement.png)
 
 * (singura metodă de creeare a unui element) Crearea de noi elemente se face prin apăsarea butonului addElement din filebrowser și apoi editarea lui (aspect, geometrie, punctele path-ului etc.)
 
 
-[! [] (Http://orobo.go.ro:3500/images/tutorial/filebrowser4.png)] (http://orobo.go.ro:3500/browse/file/4wtih642DRCZ5eFxq/1/5)
+[![](http://orobo.go.ro:3500/images/tutorial/filebrowser4.png)] (http://orobo.go.ro:3500/browse/file/4wtih642DRCZ5eFxq/1/5)
 
 ## Filebrowser
 
 ### Meniu Filebrowser
 
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemEdit/0.04)] (http://orobo.go.ro:3500/filem/menuItemEdit) Editare fișier
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemClone/0.04)] (http://orobo.go.ro:3500/filem/menuItemClone) Clonare fișier
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemDelete/0.04)] (http://orobo.go.ro:3500/filem/menuItemDelete) Ștergere fișier
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemExport/0.04)] (http://orobo.go.ro:3500/filem/menuItemExport) Export fișier
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemSearch/0.04)] (http://orobo.go.ro:3500/filem/menuItemSearch) Vizualizare fișier
+#### [![](http://orobo.go.ro:3500/file/menuItemEdit/0.04)] (http://orobo.go.ro:3500/filem/menuItemEdit) Editare fișier
+#### [![](http://orobo.go.ro:3500/file/menuItemClone/0.04)] (http://orobo.go.ro:3500/filem/menuItemClone) Clonare fișier
+#### [![](http://orobo.go.ro:3500/file/menuItemDelete/0.04)] (http://orobo.go.ro:3500/filem/menuItemDelete) Ștergere fișier
+#### [![](http://orobo.go.ro:3500/file/menuItemExport/0.04)] (http://orobo.go.ro:3500/filem/menuItemExport) Export fișier
+#### [![](http://orobo.go.ro:3500/file/menuItemSearch/0.04)] (http://orobo.go.ro:3500/filem/menuItemSearch) Vizualizare fișier
 
 ### Iconiţele din Filebrowser
 
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemFolder/0.04)] (http://orobo.go.ro:3500/filem/menuItemFolder) Folder
+#### [![](http://orobo.go.ro:3500/file/menuItemFolder/0.04)] (http://orobo.go.ro:3500/filem/menuItemFolder) Folder
 
 Această pictogramă vă arată că fișierul are copii structurale sub ea.
 
-#### [! [] (Http://orobo.go.ro:3500/file/menuItemDisector/0.04)] (http://orobo.go.ro:3500/filem/menuItemDisector) Disector
+#### [![](http://orobo.go.ro:3500/file/menuItemDisector/0.04)] (http://orobo.go.ro:3500/filem/menuItemDisector) Disector
 
 Această pictogramă vă arată că fișierul are grupuri sub ea pe care le puteți naviga, până la elementele pe care le conține.
 
-! [] (Http://orobo.go.ro:3500/images/tutorial/breadcrumbs.png)
+![](http://orobo.go.ro:3500/images/tutorial/breadcrumbs.png)
 
 #### FileBrowser Breadcrumbs
 
@@ -96,7 +96,7 @@ Aceasta este calea folderului curent, cu rădăcina Oroboro ca primul miez.
 
 * Mărire și micșorare cu mouse-ul
 * Pan făcând clic pe fundalul alb și trăgând-
-* De / blocare pan & zoom făcând clic pe pictograma de blocare - [! [] (Http://orobo.go.ro:3500/file/2j4FekqSWwTfFGSeX/0.02)] din dreapta jos de colț (http://orobo.go.ro:3500 / filem / 2j4FekqSWwTfFGSeX)
+* De / blocare pan & zoom făcând clic pe pictograma de blocare - [![](http://orobo.go.ro:3500/file/2j4FekqSWwTfFGSeX/0.02)] din dreapta jos de colț (http://orobo.go.ro:3500 / filem / 2j4FekqSWwTfFGSeX)
 * Minimap a documentului (fișier) și pânza (fundal alb), în colțul din dreapta jos
 * Selectare elemente făcând clic pe acestea, selectii multiple cu Shift + clic pe acestea sau prin utilizarea Shift + tragere.
 
@@ -106,61 +106,61 @@ Aceasta este calea folderului curent, cu rădăcina Oroboro ca primul miez.
 
 ##### Cale
 
-###### [! [] (Http://orobo.go.ro:3500/file/7fFtAL9AgJaWp9G7q/0.04)] (http://orobo.go.ro:3500/filem/7fFtAL9AgJaWp9G7q) Cale simplă
+###### [![](http://orobo.go.ro:3500/file/7fFtAL9AgJaWp9G7q/0.04)] (http://orobo.go.ro:3500/filem/7fFtAL9AgJaWp9G7q) Cale simplă
 
 * Doar linii drepte: 'M870 512L153 925L153 98L870 512Z'
 * Important pentru a face [operații booleene] (http://en.wikipedia.org/wiki/Boolean_operations_on_polygons))
 
-###### [! [] (Http://orobo.go.ro:3500/file/eAywEx5e5cNwe6BpC/0.04)] (http://orobo.go.ro:3500/filem/eAywEx5e5cNwe6BpC) Cale Complexă
+###### [![](http://orobo.go.ro:3500/file/eAywEx5e5cNwe6BpC/0.04)] (http://orobo.go.ro:3500/filem/eAywEx5e5cNwe6BpC) Cale Complexă
 
 * Cu toate curbele simplificate pentru curbe Bezier cubi: 'M112 512C112 291 291 112 512 112 912 291 112C732 912 733 733 912 512C912 512 912C291 912 112 733 112 512Z')
 
-##### [! [] (Http://orobo.go.ro:3500/file/sh8BiMTztrdGXaPsS/0.04)] (http://orobo.go.ro:3500/filem/sh8BiMTztrdGXaPsS) Raster Image
-##### [! [] (Http://orobo.go.ro:3500/file/AETqEKboPMEEnPHkj/0.04)] (http://orobo.go.ro:3500/filem/AETqEKboPMEEnPHkj) Text
-##### [! [] (Http://orobo.go.ro:3500/file/44W6oHqR5woPp474S/0.04)] (http://orobo.go.ro:3500/filem/44W6oHqR5woPp474S) Cale parametrizată
+##### [![](http://orobo.go.ro:3500/file/sh8BiMTztrdGXaPsS/0.04)] (http://orobo.go.ro:3500/filem/sh8BiMTztrdGXaPsS) Raster Image
+##### [![](http://orobo.go.ro:3500/file/AETqEKboPMEEnPHkj/0.04)] (http://orobo.go.ro:3500/filem/AETqEKboPMEEnPHkj) Text
+##### [![](http://orobo.go.ro:3500/file/44W6oHqR5woPp474S/0.04)] (http://orobo.go.ro:3500/filem/44W6oHqR5woPp474S) Cale parametrizată
 
 ###### Căi simple parametrizate
 ###### Căi complexe parametrizate
 Căi bazate pe Funcții ######
 
-####### [! [] (Http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.04)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm) Grafice carteziene pentru funcții
+####### [![](http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.04)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm) Grafice carteziene pentru funcții
 
 De exemplu, `3 * Math.sin (3 * x)` este funcția utilizată pentru
 
-[! [] (Http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.2)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm)
+[![](http://orobo.go.ro:3500/file/2oBer6NfjwHpWjYXm/0.2)] (http://orobo.go.ro:3500/filem/2oBer6NfjwHpWjYXm)
 
-####### [! [] (Http://orobo.go.ro:3500/file/srWR38tZRknYDeSbJ/0.04)] (http://orobo.go.ro:3500/filem/srWR38tZRknYDeSbJ)  Grafice polare pentru Funcții
+####### [![](http://orobo.go.ro:3500/file/srWR38tZRknYDeSbJ/0.04)] (http://orobo.go.ro:3500/filem/srWR38tZRknYDeSbJ)  Grafice polare pentru Funcții
 
 De exemplu, `Math.cos (7/4 * x)` este funcția utilizată pentru
 
-[! [] (Http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.2)] (http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S)
+[![](http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.2)] (http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S)
 
 Mai multe funcții pentru spirală archimedeană și trandafiri polari la [graficele-of-polare ecuații] (http://www.mathamazement.com/Lessons/Pre-Calculus/06_Additional-Topics-in-Trigonometry/graphs-of-polar-equations .html). Asigurați-vă că vă oferă o gamă suficient de mare pentru unghiul polar theta.
 
 
-##### [! [] (Http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.04)] (http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD) Formulele
+##### [![](http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.04)] (http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD) Formulele
 
 * Intrare latex
 
 De exemplu, `e = mc ^ 2` este formula utilizată pentru
 
-[! [] (Http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.2)] (http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD)
+[![](http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.2)] (http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD)
 
-##### [! [] (Http://orobo.go.ro:3500/file/arHQ6fwEmaZmwQCbu/0.04)] (http://orobo.go.ro:3500/filem/arHQ6fwEmaZmwQCbu) QRcode
-##### [! [] (Http://orobo.go.ro:3500/file/JrTR22Q3d56xWRkc2/0.04)] (http://orobo.go.ro:3500/filem/JrTR22Q3d56xWRkc2) Markdown
-##### [! [] (Http://orobo.go.ro:3500/file/TQWiptxM8BDzyR3uv/0.04)] (http://orobo.go.ro:3500/filem/TQWiptxM8BDzyR3uv) iFrame
-##### [! [] (Http://orobo.go.ro:3500/file/CW976umbSxzA53byY/0.04)] (http://orobo.go.ro:3500/filem/CW976umbSxzA53byY) Canvas
-##### [! [] (Http://orobo.go.ro:3500/file/Pcp7avZpjfQ3fZXCb/0.04)] (http://orobo.go.ro:3500/filem/Pcp7avZpjfQ3fZXCb) HTML
-##### [! [] (Http://orobo.go.ro:3500/file/d8RDkZdNnHZipaCbK/0.04)] (http://orobo.go.ro:3500/filem/d8RDkZdNnHZipaCbK) NestedSvg
+##### [![](http://orobo.go.ro:3500/file/arHQ6fwEmaZmwQCbu/0.04)] (http://orobo.go.ro:3500/filem/arHQ6fwEmaZmwQCbu) QRcode
+##### [![](http://orobo.go.ro:3500/file/JrTR22Q3d56xWRkc2/0.04)] (http://orobo.go.ro:3500/filem/JrTR22Q3d56xWRkc2) Markdown
+##### [![](http://orobo.go.ro:3500/file/TQWiptxM8BDzyR3uv/0.04)] (http://orobo.go.ro:3500/filem/TQWiptxM8BDzyR3uv) iFrame
+##### [![](http://orobo.go.ro:3500/file/CW976umbSxzA53byY/0.04)] (http://orobo.go.ro:3500/filem/CW976umbSxzA53byY) Canvas
+##### [![](http://orobo.go.ro:3500/file/Pcp7avZpjfQ3fZXCb/0.04)] (http://orobo.go.ro:3500/filem/Pcp7avZpjfQ3fZXCb) HTML
+##### [![](http://orobo.go.ro:3500/file/d8RDkZdNnHZipaCbK/0.04)] (http://orobo.go.ro:3500/filem/d8RDkZdNnHZipaCbK) NestedSvg
 
 #### Articole speciale
 
-##### [! [] (Http://orobo.go.ro:3500/file/tJGWoeZnxtAsoDuvy/0.04)] (http://orobo.go.ro:3500/filem/tJGWoeZnxtAsoDuvy) Conector
-##### [! [] (Http://orobo.go.ro:3500/file/arHQ6fwEmaZmwQCbu/0.04)] (http://orobo.go.ro:3500/filem/arHQ6fwEmaZmwQCbu) Gradient
+##### [![](http://orobo.go.ro:3500/file/tJGWoeZnxtAsoDuvy/0.04)] (http://orobo.go.ro:3500/filem/tJGWoeZnxtAsoDuvy) Conector
+##### [![](http://orobo.go.ro:3500/file/arHQ6fwEmaZmwQCbu/0.04)] (http://orobo.go.ro:3500/filem/arHQ6fwEmaZmwQCbu) Gradient
 
 #### de modificare a elementelor
 
-! [] (Http://orobo.go.ro:3500/images/tutorial/appearance.png)
+![](http://orobo.go.ro:3500/images/tutorial/appearance.png)
 
 ##### Articol Aspect
 
@@ -170,7 +170,7 @@ De exemplu, `e = mc ^ 2` este formula utilizată pentru
 
 ##### Articol Poziție
 
-! [] (Http://orobo.go.ro:3500/images/tutorial/geometry.png)
+![](http://orobo.go.ro:3500/images/tutorial/geometry.png)
 
 ###### Comenzile meniului
 
@@ -184,26 +184,26 @@ Controlul exact cu pixel valori numerice: x, y coordonatele, coordonatele centru
 
 ##### perspectivă 3D
 
-După selectarea unui element, faceți clic pe butonul din dreapta jos [! [] (Http://orobo.go.ro:3500/file/isqRsRCPhGeSPNhoh/0.03)] (http://orobo.go.ro:3500/file/ isqRsRCPhGeSPNhoh) sau apăsați pe Alt + 3. Shift + trageți pentru menținerea raportul.
+După selectarea unui element, faceți clic pe butonul din dreapta jos [![](http://orobo.go.ro:3500/file/isqRsRCPhGeSPNhoh/0.03)] (http://orobo.go.ro:3500/file/ isqRsRCPhGeSPNhoh) sau apăsați pe Alt + 3. Shift + trageți pentru menținerea raportul.
 
-Acest lucru poate fi folosit pentru a crea umbre. De exemplu: [! [] (Http://orobo.go.ro:3500/file/gXJDaFEbjPbdNTdfp/0.03)] clona formă (http://orobo.go.ro:3500/filem/gXJDaFEbjPbdNTdfp), se aplică un 0,5 opacitate / culoare gri spre viitor umbra și trageți cercurile selectorul 3D până când veți obține umbra dreapta:)
+Acest lucru poate fi folosit pentru a crea umbre. De exemplu: [![](http://orobo.go.ro:3500/file/gXJDaFEbjPbdNTdfp/0.03)] clona formă (http://orobo.go.ro:3500/filem/gXJDaFEbjPbdNTdfp), se aplică un 0,5 opacitate / culoare gri spre viitor umbra și trageți cercurile selectorul 3D până când veți obține umbra dreapta:)
 
-[! [] (Http://orobo.go.ro:3500/file/nzumC3jDDPK6jnPTZ/0.3)] (http://orobo.go.ro:3500/filem/nzumC3jDDPK6jnPTZ)
+[![](http://orobo.go.ro:3500/file/nzumC3jDDPK6jnPTZ/0.3)] (http://orobo.go.ro:3500/filem/nzumC3jDDPK6jnPTZ)
 
-[! [] (Http://orobo.go.ro:3500/file/Caj6Gda3CFZGnvn8v/0.2)] (http://orobo.go.ro:3500/file/Caj6Gda3CFZGnvn8v)
+[![](http://orobo.go.ro:3500/file/Caj6Gda3CFZGnvn8v/0.2)] (http://orobo.go.ro:3500/file/Caj6Gda3CFZGnvn8v)
 
 ##### Fine Tuning Căi
 
-Punctul de control al mouse-ului prin (după selectarea unui element, faceți clic pe butonul din stânga jos [! [] (http://orobo.go.ro:3500/file/MeSC479WX69b9GATS/0.03)] (http://orobo.go.ro : 3500 / fișier / MeSC479WX69b9GATS) sau apăsați Alt + P):
+Punctul de control al mouse-ului prin (după selectarea unui element, faceți clic pe butonul din stânga jos [![](http://orobo.go.ro:3500/file/MeSC479WX69b9GATS/0.03)] (http://orobo.go.ro : 3500 / fișier / MeSC479WX69b9GATS) sau apăsați Alt + P):
 
-* [! [] (Http://orobo.go.ro:3500/file/P2BZPG7qy42sWFrFA/0.02)] (http://orobo.go.ro:3500/filem/P2BZPG7qy42sWFrFA) = punctul de cale
-* [! [] (Http://orobo.go.ro:3500/file/uzrFnBmQCxoicpGS6/0.02)] (http://orobo.go.ro:3500/filem/uzrFnBmQCxoicpGS6) = primul punct subcalea
-* [! [] (Http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)] (http://orobo.go.ro:3500/filem/4Wb7jMkaZxEBFwkqD) = adaugă un punct nou
-* [! [] (Http://orobo.go.ro:3500/file/Qys966QrtRMGcYRDK/0.02)] (http://orobo.go.ro:3500/filem/Qys966QrtRMGcYRDK) = atractor curba
+* [![](http://orobo.go.ro:3500/file/P2BZPG7qy42sWFrFA/0.02)] (http://orobo.go.ro:3500/filem/P2BZPG7qy42sWFrFA) = punctul de cale
+* [![](http://orobo.go.ro:3500/file/uzrFnBmQCxoicpGS6/0.02)] (http://orobo.go.ro:3500/filem/uzrFnBmQCxoicpGS6) = primul punct subcalea
+* [![](http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)] (http://orobo.go.ro:3500/filem/4Wb7jMkaZxEBFwkqD) = adaugă un punct nou
+* [![](http://orobo.go.ro:3500/file/Qys966QrtRMGcYRDK/0.02)] (http://orobo.go.ro:3500/filem/Qys966QrtRMGcYRDK) = atractor curba
 
 
 * Puncte de tragere de cale și curba atractori
-* Șterge puncte de cale - dublu click pe [! [] (Http://orobo.go.ro:3500/file/P2BZPG7qy42sWFrFA/0.02)] (http://orobo.go.ro:3500/filem/P2BZPG7qy42sWFrFA)
+* Șterge puncte de cale - dublu click pe [![](http://orobo.go.ro:3500/file/P2BZPG7qy42sWFrFA/0.02)] (http://orobo.go.ro:3500/filem/P2BZPG7qy42sWFrFA)
 * Șterge curba - dublu click pe una din curba lui (http://orobo.go.ro:3500/filem/ [[] (http://orobo.go.ro:3500/file/Qys966QrtRMGcYRDK/0.02)!] Qys966QrtRMGcYRDK)
 * Adaugă simplu punct (linie dreaptă) - click pe (http://orobo.go.ro:3500/filem/ [[] (http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!] 4Wb7jMkaZxEBFwkqD)
 * Adaugă punctul curba (2 curbe) - Shift + click pe [[] (http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!] (Http://orobo.go.ro:3500/ filem / 4Wb7jMkaZxEBFwkqD)
@@ -219,7 +219,7 @@ Punctul de control al controalelor din meniul (Puncte submeniu) (!) - fiecare pu
 
 Fiecare fișier are cel puțin un strat sub care sunt grupate elementele.
 
-##### [! [] (Http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Simple Group
+##### [![](http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Simple Group
 
 Orice grup svg clasic, care conține elemente: `<g> </ g>`
 
@@ -241,21 +241,21 @@ Valori neutre matrice: 1,0,0,1,0,0. Valoare semnificație:
 ### Fișiere
 #### Tipuri de fisiere
 
-##### [! [] (Http://orobo.go.ro:3500/file/9tQyfodBmtdRpcEML/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9tQyfodBmtdRpcEML) SVG
-##### [! [] (Http://orobo.go.ro:3500/file/QLjb9RprCCEPo5LFk/0.04/notemplate)] (http://orobo.go.ro:3500/filem/QLjb9RprCCEPo5LFk) PNG
-##### [! [] (Http://orobo.go.ro:3500/file/k6oThcBq7HrPE2hEN/0.04/notemplate)] (http://orobo.go.ro:3500/filem/k6oThcBq7HrPE2hEN) JPEG
-##### [! [] (Http://orobo.go.ro:3500/file/E2fB5224ac5mkDcro/0.04/notemplate)] (http://orobo.go.ro:3500/filem/E2fB5224ac5mkDcro) JavaScript
-##### [! [] (Http://orobo.go.ro:3500/file/xNdm3hx4M3WLhGd7x/0.04/notemplate)] (http://orobo.go.ro:3500/filem/xNdm3hx4M3WLhGd7x) CSS
-##### [! [] (Http://orobo.go.ro:3500/file/fhTRHbcDGmHxFEdM4/0.04/notemplate)] (http://orobo.go.ro:3500/filem/fhTRHbcDGmHxFEdM4) Text
+##### [![](http://orobo.go.ro:3500/file/9tQyfodBmtdRpcEML/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9tQyfodBmtdRpcEML) SVG
+##### [![](http://orobo.go.ro:3500/file/QLjb9RprCCEPo5LFk/0.04/notemplate)] (http://orobo.go.ro:3500/filem/QLjb9RprCCEPo5LFk) PNG
+##### [![](http://orobo.go.ro:3500/file/k6oThcBq7HrPE2hEN/0.04/notemplate)] (http://orobo.go.ro:3500/filem/k6oThcBq7HrPE2hEN) JPEG
+##### [![](http://orobo.go.ro:3500/file/E2fB5224ac5mkDcro/0.04/notemplate)] (http://orobo.go.ro:3500/filem/E2fB5224ac5mkDcro) JavaScript
+##### [![](http://orobo.go.ro:3500/file/xNdm3hx4M3WLhGd7x/0.04/notemplate)] (http://orobo.go.ro:3500/filem/xNdm3hx4M3WLhGd7x) CSS
+##### [![](http://orobo.go.ro:3500/file/fhTRHbcDGmHxFEdM4/0.04/notemplate)] (http://orobo.go.ro:3500/filem/fhTRHbcDGmHxFEdM4) Text
 
 #### Tipuri de fișiere speciale
 
-##### [! [] (Http://orobo.go.ro:3500/file/9soqDH7MhEw8rcXBx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9soqDH7MhEw8rcXBx) Format
+##### [![](http://orobo.go.ro:3500/file/9soqDH7MhEw8rcXBx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9soqDH7MhEw8rcXBx) Format
 
 
 #### Editarea fișierelor
 
-[! [] (Http://orobo.go.ro:3500/images/tutorial/fileinfo.png)]
+[![](http://orobo.go.ro:3500/images/tutorial/fileinfo.png)]
 
 ##### Informații fișier
 
@@ -266,64 +266,64 @@ Permisiuni fișier ######
 Info submeniu. Adăugați adrese de e-mail separate prin virgulă:,
 Adresele de e-mail trebuie să aibă un cont oroboro.
 
-[! [] (Http://orobo.go.ro:3500/images/tutorial/fileactions.png)]
+[![](http://orobo.go.ro:3500/images/tutorial/fileactions.png)]
 
 
 
 Operații generale ###
 
-[! [] (Http://orobo.go.ro:3500/images/tutorial/actions.png)] (http://orobo.go.ro:3500/filem/2ME5he36GPCNCaFhY)
+[![](http://orobo.go.ro:3500/images/tutorial/actions.png)] (http://orobo.go.ro:3500/filem/2ME5he36GPCNCaFhY)
 
 ** din meniul de control, operațiunile sunt sub submeniul Acțiuni; unele dintre ele au comenzi rapide de la tastatură
 
-##### [! [] (Http://orobo.go.ro:3500/file/bvDoMyozQm4cBLrFK/0.04/notemplate)] (http://orobo.go.ro:3500/filem/bvDoMyozQm4cBLrFK) Codul sursă
+##### [![](http://orobo.go.ro:3500/file/bvDoMyozQm4cBLrFK/0.04/notemplate)] (http://orobo.go.ro:3500/filem/bvDoMyozQm4cBLrFK) Codul sursă
 
 * Vizualiza și edita codul sursă SVG fișierului: faceți clic pe `source` (meniul de control fișier)
 * vizualiza și edita codul sursă de 1 /> articole și grupuri: selectați obiecte / grupuri, apoi faceți clic pe `source` (meniu de control)
 
-##### [! [] (Http://orobo.go.ro:3500/file/EqPANkXeM2cFSKfTC/0.04/notemplate)] (http://orobo.go.ro:3500/filem/EqPANkXeM2cFSKfTC) Clone
+##### [![](http://orobo.go.ro:3500/file/EqPANkXeM2cFSKfTC/0.04/notemplate)] (http://orobo.go.ro:3500/filem/EqPANkXeM2cFSKfTC) Clone
 
 obiecte Clone / grupuri în interiorul fișierului, în cadrul părinte al elementului original.
 
 * selectați elemente / grupuri, apoi faceți clic pe `clone` (meniu de control)
 * Selecta elemente / grupuri, apoi apăsați pe Alt + C
 
-##### [! [] (Http://orobo.go.ro:3500/file/ggFTeKHeA8vGFn9Z5/0.04/notemplate)] (http://orobo.go.ro:3500/filem/ggFTeKHeA8vGFn9Z5) Ștergere
+##### [![](http://orobo.go.ro:3500/file/ggFTeKHeA8vGFn9Z5/0.04/notemplate)] (http://orobo.go.ro:3500/filem/ggFTeKHeA8vGFn9Z5) Ștergere
 
 Ștergeți elementele / grupuri din dosar.
 
 * a selecta elemente / grupuri, apoi faceți clic pe `Sterge` (meniu de control)
 * Selecta elemente / grupuri, apoi apăsați pe Alt + D
 
-##### [! [] (Http://orobo.go.ro:3500/file/Bg5p7KxDexx7wp2vr/0.04/notemplate)] (http://orobo.go.ro:3500/filem/Bg5p7KxDexx7wp2vr) Se aduce la Față
+##### [![](http://orobo.go.ro:3500/file/Bg5p7KxDexx7wp2vr/0.04/notemplate)] (http://orobo.go.ro:3500/filem/Bg5p7KxDexx7wp2vr) Se aduce la Față
 
 Adu element / grup în față, care se suprapun celelalte elemente (!)
 
 * Select element / grup, apoi faceți clic pe (meniu de control) `toFront`
 * Select element / grup, apoi apăsați pe Alt + F
 
-##### [! [] (Http://orobo.go.ro:3500/file/STsJzqTqRyi6JX8rN/0.04/notemplate)] (http://orobo.go.ro:3500/filem/STsJzqTqRyi6JX8rN) Trimite Înapoi
+##### [![](http://orobo.go.ro:3500/file/STsJzqTqRyi6JX8rN/0.04/notemplate)] (http://orobo.go.ro:3500/filem/STsJzqTqRyi6JX8rN) Trimite Înapoi
 
 Trimite element / grup în spate, fiind suprapus de toate celelalte elemente (!)
 
 * Select element / grup, apoi faceți clic pe (meniu de control) `toBack`
 * Select element / grup, apoi apăsați pe Alt + B
 
-##### [! [] (Http://orobo.go.ro:3500/file/QWz5HkQwwqgqNpNZJ/0.04/notemplate)] (http://orobo.go.ro:3500/filem/QWz5HkQwwqgqNpNZJ) Selectați părinte grup
+##### [![](http://orobo.go.ro:3500/file/QWz5HkQwwqgqNpNZJ/0.04/notemplate)] (http://orobo.go.ro:3500/filem/QWz5HkQwwqgqNpNZJ) Selectați părinte grup
 
 Selectați grupul care conține elementul / grup (dacă nu este un strat).
 
 * Select element / grup, apoi faceți clic pe (meniu de control) `toGroup`
 * Select element / grup, apoi apăsați pe Alt + Săgeată în sus
 
-##### [! [] (Http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Creați un părinte grup
+##### [![](http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Creați un părinte grup
 
 Creați un grup care conține elementele selectate / grupuri
 
 * selectați elemente / grupuri, apoi faceți clic pe `group` (meniu de control)
 * selectați elemente / grupuri, apoi apăsați pe Alt + G
 
-##### [! [] (Http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Import Selector
+##### [![](http://orobo.go.ro:3500/file/cRiQceYEsBNr2MuAx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cRiQceYEsBNr2MuAx) Import Selector
 
 Creați un grup care conține elementul original și selectorul prezent în acel moment (selectorul draggable, selectorul de puncte, selectorul 3D).
 
@@ -334,25 +334,25 @@ Creați un grup care conține elementul original și selectorul prezent în acel
 
 ##### Operațiuni Path
 
-###### [! [] (Http://orobo.go.ro:3500/file/4YptMH9My37sYj5mm/0.04/notemplate)] (http://orobo.go.ro:3500/filem/4YptMH9My37sYj5mm) Închide / Open Path
+###### [![](http://orobo.go.ro:3500/file/4YptMH9My37sYj5mm/0.04/notemplate)] (http://orobo.go.ro:3500/filem/4YptMH9My37sYj5mm) Închide / Open Path
 
 Închide calea / deschis.
 
 * Selectați calea, apoi faceți clic pe `closeOpen` (meniu de control) pentru opțiunea de comutare
 
-###### [! [] (Http://orobo.go.ro:3500/file/fEv7RE3LdYpQ4Q8TW/0.04/notemplate)] (http://orobo.go.ro:3500/filem/fEv7RE3LdYpQ4Q8TW) orizontală Oglindă
+###### [![](http://orobo.go.ro:3500/file/fEv7RE3LdYpQ4Q8TW/0.04/notemplate)] (http://orobo.go.ro:3500/filem/fEv7RE3LdYpQ4Q8TW) orizontală Oglindă
 
 element Flip orizontal.
 
 * Selectați calea, apoi faceți clic pe `mirrorH` (meniu de control)
 
-###### [! [] (Http://orobo.go.ro:3500/file/n6yMHex8KcBPBC9Ts/0.04/notemplate)] (http://orobo.go.ro:3500/filem/n6yMHex8KcBPBC9Ts) Vertical Oglindă
+###### [![](http://orobo.go.ro:3500/file/n6yMHex8KcBPBC9Ts/0.04/notemplate)] (http://orobo.go.ro:3500/filem/n6yMHex8KcBPBC9Ts) Vertical Oglindă
 
 element Flip vertical.
 
 * Selectați calea, apoi faceți clic pe `mirrorV` (meniu de control)
 
-###### [! [] (Http://orobo.go.ro:3500/file/8JyQRohBkBZvzRwEp/0.04/notemplate)] (http://orobo.go.ro:3500/filem/8JyQRohBkBZvzRwEp) Reverse Cale Puncte Comandă
+###### [![](http://orobo.go.ro:3500/file/8JyQRohBkBZvzRwEp/0.04/notemplate)] (http://orobo.go.ro:3500/filem/8JyQRohBkBZvzRwEp) Reverse Cale Puncte Comandă
 
 Reverse ordinea punctelor de traseu.
 
@@ -364,35 +364,35 @@ Join 1 /> căi într-o singură formă cu subpaths.
 
 * Shift selectați căi, apoi faceți clic pe `joinPaths` (meniu de control)
 
-###### [! [] (Http://orobo.go.ro:3500/file/7jLp2apKztDxd6Siv/0.04/notemplate)] (http://orobo.go.ro:3500/filem/7jLp2apKztDxd6Siv) Split, Subpaths din Calea
+###### [![](http://orobo.go.ro:3500/file/7jLp2apKztDxd6Siv/0.04/notemplate)] (http://orobo.go.ro:3500/filem/7jLp2apKztDxd6Siv) Split, Subpaths din Calea
 
 subpaths separate pentru a forma elemente separate.
 
 * Selectați calea, apoi faceți clic pe `splitPaths` (meniu de control)
 
-###### [! [] (Http://orobo.go.ro:3500/file/CBH7KZbutnGPknCNf/0.04/notemplate)] (http://orobo.go.ro:3500/filem/CBH7KZbutnGPknCNf) Punctul simetria Group
+###### [![](http://orobo.go.ro:3500/file/CBH7KZbutnGPknCNf/0.04/notemplate)] (http://orobo.go.ro:3500/filem/CBH7KZbutnGPknCNf) Punctul simetria Group
 
 Creați un __Parametrized Group__ folosind calea selectată și un punct cu coordonate x și y pentru construirea de clone Simetric ale căii, în raport cu punctul dat.
 
-! [! [] (Http://orobo.go.ro:3500/file/AZrdxkdEjk3yCgLpJ/0.2/notemplate)] (http://orobo.go.ro:3500/filem/AZrdxkdEjk3yCgLpJ) [[] (http: //orobo.go.ro:3500/file/A5TCgpQdRXeQus9iu/0.2/notemplate)](http://orobo.go.ro:3500/filem/A5TCgpQdRXeQus9iu) [! [] (http://orobo.go.ro : [! [] 3500 / file / nPW3sGvBa57m87d7d / 0,2 / notemplate)] (http://orobo.go.ro:3500/filem/nPW3sGvBa57m87d7d) (http://orobo.go.ro:3500/file/SzvW7PjwnchXPFwnj/ 0,2 / notemplate)] (http://orobo.go.ro:3500/filem/SzvW7PjwnchXPFwnj)
+! [![](http://orobo.go.ro:3500/file/AZrdxkdEjk3yCgLpJ/0.2/notemplate)] (http://orobo.go.ro:3500/filem/AZrdxkdEjk3yCgLpJ) [[] (http: //orobo.go.ro:3500/file/A5TCgpQdRXeQus9iu/0.2/notemplate)](http://orobo.go.ro:3500/filem/A5TCgpQdRXeQus9iu) [![](http://orobo.go.ro : [! [] 3500 / file / nPW3sGvBa57m87d7d / 0,2 / notemplate)] (http://orobo.go.ro:3500/filem/nPW3sGvBa57m87d7d) (http://orobo.go.ro:3500/file/SzvW7PjwnchXPFwnj/ 0,2 / notemplate)] (http://orobo.go.ro:3500/filem/SzvW7PjwnchXPFwnj)
 
 * Selectați calea, apoi faceți clic pe `pointSymmetry` (meniu de control)
 * Grupul parametrizat va avea toate caracteristicile prezentate în subcapitolul parametrizat Group.
 
 Cu această caracteristică puternic putem face chiar spirale.
 
-###### [! [] (Http://orobo.go.ro:3500/file/AnNnDaf2HrmyHBTYE/0.04/notemplate)] (http://orobo.go.ro:3500/filem/AnNnDaf2HrmyHBTYE) Linie simetria Group
+###### [![](http://orobo.go.ro:3500/file/AnNnDaf2HrmyHBTYE/0.04/notemplate)] (http://orobo.go.ro:3500/filem/AnNnDaf2HrmyHBTYE) Linie simetria Group
 
-! [! [] (Http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)] (http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [[] (http: // orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [! [] (http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
+! [![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)] (http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [[] (http: // orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
 
 Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie pentru construirea de clone Simetric ale căii, în raport cu linia.
 
 * Selectați calea, apoi faceți clic pe `lineSymmetry` (meniu de control)
 * Grupul parametrizat va avea toate caracteristicile prezentate în subcapitolul parametrizat Group.
 
-###### [! [] (Http://orobo.go.ro:3500/file/jLXYjXxyTTecoYv9C/0.04/notemplate)] (http://orobo.go.ro:3500/filem/jLXYjXxyTTecoYv9C) Articol Array Group
+###### [![](http://orobo.go.ro:3500/file/jLXYjXxyTTecoYv9C/0.04/notemplate)] (http://orobo.go.ro:3500/filem/jLXYjXxyTTecoYv9C) Articol Array Group
 
-! [! [] (Http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)] (http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [[] (http: // orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [! [] (http://orobo.go.ro:3500/file /iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
+! [![](http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)] (http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [[] (http: // orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [![](http://orobo.go.ro:3500/file /iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
 
 Creați un __Parametrized Group__ folosind calea aleasă pentru construirea de clone ale căii aranjate într-un format de matrice / matrice.
 
@@ -405,43 +405,43 @@ Puteți face acum cu ușurință modele și dale și chiar mozaicare.
 
 Putem combina operațiunile de mai sus pentru a crea obiecte complexe și modele.
 
-[! [] (Http://orobo.go.ro:3500/file/JoXEZALTNoz9JgHLg/0.2/notemplate)] (http://orobo.go.ro:3500/filem/JoXEZALTNoz9JgHLg)
+[![](http://orobo.go.ro:3500/file/JoXEZALTNoz9JgHLg/0.2/notemplate)] (http://orobo.go.ro:3500/filem/JoXEZALTNoz9JgHLg)
 
-Acest model de tip fagure a fost creat folosind Item Array cu [! [] (Http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3 ) - obținută prin utilizarea Punctul Symmetry cu [! [] (http://orobo.go.ro:3500/file/2DzGLexiPZYpzSt69/0.1)] (http://orobo.go.ro:3500/filem/2DzGLexiPZYpzSt69)
+Acest model de tip fagure a fost creat folosind Item Array cu [![](http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3 ) - obținută prin utilizarea Punctul Symmetry cu [![](http://orobo.go.ro:3500/file/2DzGLexiPZYpzSt69/0.1)] (http://orobo.go.ro:3500/filem/2DzGLexiPZYpzSt69)
 
-[! [] (Http://orobo.go.ro:3500/file/tSwejJnAEKPBSazp6/0.2/notemplate)] (http://orobo.go.ro:3500/filem/tSwejJnAEKPBSazp6)
+[![](http://orobo.go.ro:3500/file/tSwejJnAEKPBSazp6/0.2/notemplate)] (http://orobo.go.ro:3500/filem/tSwejJnAEKPBSazp6)
 
-Acest puzzle a fost creat folosind Item Array cu [! [] (Http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3 ) - obținută prin utilizarea Punctul Symmetry cu [! [] (http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3)
+Acest puzzle a fost creat folosind Item Array cu [![](http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3 ) - obținută prin utilizarea Punctul Symmetry cu [![](http://orobo.go.ro:3500/file/zS26Fh445Wqdu4ND3/0.1)] (http://orobo.go.ro:3500/filem/zS26Fh445Wqdu4ND3)
 
-[! [] (Http://orobo.go.ro:3500/file/z5CTy2uBPegog5Bnv/0.2)] (http://orobo.go.ro:3500/filem/z5CTy2uBPegog5Bnv)
+[![](http://orobo.go.ro:3500/file/z5CTy2uBPegog5Bnv/0.2)] (http://orobo.go.ro:3500/filem/z5CTy2uBPegog5Bnv)
 
-Această spirală a fost creat folosind punctul simetriei și Funcții Polar. [! [] (Http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.1)] (http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S) este generat de `Math.cos (7 / 4 * x) `(arunca o privire la intervalul unghiului polar). Dacă vom selecta această cale și faceți clic pe `genPath` din meniu, vom obține un obiect cale clasică, care poate fi utilizat cu toate acestea ne dorim: [[] (http://orobo.go.ro:3500/file/ssMswfKiZfWLseY3b/! 0,1)] (http://orobo.go.ro:3500/filem/ssMswfKiZfWLseY3b). În acest caz, prin selectarea și făcând clic pe `pointSymmetry` din meniu.
+Această spirală a fost creat folosind punctul simetriei și Funcții Polar. [![](http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.1)] (http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S) este generat de `Math.cos (7 / 4 * x) `(arunca o privire la intervalul unghiului polar). Dacă vom selecta această cale și faceți clic pe `genPath` din meniu, vom obține un obiect cale clasică, care poate fi utilizat cu toate acestea ne dorim: [[] (http://orobo.go.ro:3500/file/ssMswfKiZfWLseY3b/! 0,1)] (http://orobo.go.ro:3500/filem/ssMswfKiZfWLseY3b). În acest caz, prin selectarea și făcând clic pe `pointSymmetry` din meniu.
 
 ##### Operațiuni Path simple
 
 Operațiuni Boolean ######
 
-####### [! [] (Http://orobo.go.ro:3500/file/ACKSA92hnv8Xm7TdQ/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) Uniune
+####### [![](http://orobo.go.ro:3500/file/ACKSA92hnv8Xm7TdQ/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) Uniune
 
 Creează o altă cale de unirea căile selectate.
 
 * selectați căi, apoi faceți clic pe `union` (meniu de control)
 
-####### [! [] (Http://orobo.go.ro:3500/file/5j8hem49B5c8Wmf8w/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) Diferență
+####### [![](http://orobo.go.ro:3500/file/5j8hem49B5c8Wmf8w/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) Diferență
 
 Creează un alt articol din diferența dintre căile.
 
 * Selectați căi, apoi faceți clic pe `difference` (meniu de control)
 
 
-####### [! [] (Http://orobo.go.ro:3500/file/Li8SBbTjjfmwdhAg8/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) xOR
+####### [![](http://orobo.go.ro:3500/file/Li8SBbTjjfmwdhAg8/0.04/notemplate)] (http://orobo.go.ro:3500/filem/qDRbePmMAJgGhgzcg) xOR
 
 Creează un alt articol din XOR căilor.
 
 * Selectați căi, apoi faceți clic pe `xor` (meniu de control)
 
 
-####### [! [] (Http://orobo.go.ro:3500/file/MTeMg4fEryLvaSoBX/0.04/notemplate)] (http://orobo.go.ro:3500/filem/MTeMg4fEryLvaSoBX) Intersecție
+####### [![](http://orobo.go.ro:3500/file/MTeMg4fEryLvaSoBX/0.04/notemplate)] (http://orobo.go.ro:3500/filem/MTeMg4fEryLvaSoBX) Intersecție
 
 Creează un alt articol din intersecția căilor.
 
@@ -450,7 +450,7 @@ Creează un alt articol din intersecția căilor.
 
 ##### Operațiuni Path complexe
 
-###### [! [] (Http://orobo.go.ro:3500/file/cSYwm8DpLd5iLhL7v/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cSYwm8DpLd5iLhL7v) Simplificați
+###### [![](http://orobo.go.ro:3500/file/cSYwm8DpLd5iLhL7v/0.04/notemplate)] (http://orobo.go.ro:3500/filem/cSYwm8DpLd5iLhL7v) Simplificați
 
 * Transforma curbele în mai multe linii drepte
 * Numărul de puncte afișate în colțul din stânga sus al ecranului
@@ -458,7 +458,7 @@ Creează un alt articol din intersecția căilor.
 
 * selectați calea, apoi faceți clic pe `simplify` (meniu de control)
 
-[! [] (Http://orobo.go.ro:3500/file/mk49q5vXnGB6qNoNH/0.2/notemplate)] (http://orobo.go.ro:3500/filem/mk49q5vXnGB6qNoNH)
+[![](http://orobo.go.ro:3500/file/mk49q5vXnGB6qNoNH/0.2/notemplate)] (http://orobo.go.ro:3500/filem/mk49q5vXnGB6qNoNH)
 
 Aceasta este o cale simplă - un cerc format din linii drepte, cu 104 de puncte.
 
@@ -494,36 +494,36 @@ Resetarea matrice la valori neutre.
 
 Chiar dacă se pare că puteți schimba opțiunile transforma în mod individual, de fapt, Orobo.ro calculează și utilizează matrici pentru toate transformă.
 
-####### [! [] (Http://orobo.go.ro:3500/file/teCfvFfWYPYLMojLM/0.04/notemplate)] (http://orobo.go.ro:3500/filem/teCfvFfWYPYLMojLM) Scară
+####### [![](http://orobo.go.ro:3500/file/teCfvFfWYPYLMojLM/0.04/notemplate)] (http://orobo.go.ro:3500/filem/teCfvFfWYPYLMojLM) Scară
 
 * ScaleX = scara pe axa x
 * ScaleY = scara pe axa y
 * Grup select, apoi modificați / faceți clic pe caseta de intrare + trageți în sus-jos pentru schimbarea valorilor la scară
 
-####### [! [] (Http://orobo.go.ro:3500/file/2JnwWF5LLiRRoYwXg/0.04/notemplate)] (http://orobo.go.ro:3500/filem/2JnwWF5LLiRRoYwXg) [! [] (http://orobo.go.ro:3500/file/eX4Wu2kgHyXoMxRDf/0.04/notemplate)] (http://orobo.go.ro:3500/filem/eX4Wu2kgHyXoMxRDf) Oblic
+####### [![](http://orobo.go.ro:3500/file/2JnwWF5LLiRRoYwXg/0.04/notemplate)] (http://orobo.go.ro:3500/filem/2JnwWF5LLiRRoYwXg) [![](http://orobo.go.ro:3500/file/eX4Wu2kgHyXoMxRDf/0.04/notemplate)] (http://orobo.go.ro:3500/filem/eX4Wu2kgHyXoMxRDf) Oblic
 
 * SkewX = oblic pe axa x
 * SkewY = oblic pe axa y
 * Grup select, apoi modificați / faceți clic pe caseta de intrare + trageți în sus-jos pentru a schimba valorile oblic
 
-####### [! [] (Http://orobo.go.ro:3500/file/GGtj38efypxcnHxcb/0.04/notemplate)] (http://orobo.go.ro:3500/filem/GGtj38efypxcnHxcb) Traduceți
+####### [![](http://orobo.go.ro:3500/file/GGtj38efypxcnHxcb/0.04/notemplate)] (http://orobo.go.ro:3500/filem/GGtj38efypxcnHxcb) Traduceți
 
 * TranslateX = traduce pe axa x
 * TranslateY = traduce pe axa y
 * Grup select, apoi modificați / faceți clic pe caseta de intrare + trageți în sus-jos pentru modificarea traduce valorile
 
-####### [! [] (Http://orobo.go.ro:3500/file/KHB5HoSxDkSwJ25kx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/KHB5HoSxDkSwJ25kx) Roti
+####### [![](http://orobo.go.ro:3500/file/KHB5HoSxDkSwJ25kx/0.04/notemplate)] (http://orobo.go.ro:3500/filem/KHB5HoSxDkSwJ25kx) Roti
 
 * Grup select, apoi edita / faceți clic pe caseta de intrare + trageți în sus-jos pentru a schimba valoarea de rotire în grade.
 
-###### [! [] (Http://orobo.go.ro:3500/file/9QBE7E6diHF9ryLQn/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9QBE7E6diHF9ryLQn) Degrupeaza
+###### [![](http://orobo.go.ro:3500/file/9QBE7E6diHF9ryLQn/0.04/notemplate)] (http://orobo.go.ro:3500/filem/9QBE7E6diHF9ryLQn) Degrupeaza
 
 Șterge de grup și se mută elementele sub-mamă a grupului eliminat lui.
 
 * Grup select, apoi faceți clic pe `ungroup` (meniu de control)
 * Grup select, apoi apăsați pe Alt + U
 
-###### [! [] (Http://orobo.go.ro:3500/file/sqbFjivb2v2N2QSt8/0.04/notemplate)] (http://orobo.go.ro:3500/filem/sqbFjivb2v2N2QSt8) [ ! [] (http://orobo.go.ro:3500/file/EyEg6X6FAT7sFc45e/0.04/notemplate)] (http://orobo.go.ro:3500/filem/EyEg6X6FAT7sFc45e) Toggle Lock
+###### [![](http://orobo.go.ro:3500/file/sqbFjivb2v2N2QSt8/0.04/notemplate)] (http://orobo.go.ro:3500/filem/sqbFjivb2v2N2QSt8) [ ![](http://orobo.go.ro:3500/file/EyEg6X6FAT7sFc45e/0.04/notemplate)] (http://orobo.go.ro:3500/filem/EyEg6X6FAT7sFc45e) Toggle Lock
 
 Comutați proprietatea de blocare a unui grup; atunci când este adevărat, puteți selecta direct grupul și de a efectua acțiuni pe ea; atunci când false, puteți selecta drectly elementele sub ea (a se vedea toGroup pentru cum se ajunge la grupul unui articol).
 
@@ -532,7 +532,7 @@ Comutați proprietatea de blocare a unui grup; atunci când este adevărat, pute
 
 #### Operațiuni Layer
 
-[! [] (Http://orobo.go.ro:3500/file/mcQgyXHF75RSjEbez/0.1/notemplate)] (http://orobo.go.ro:3500/filem/mcQgyXHF75RSjEbez)
+[![](http://orobo.go.ro:3500/file/mcQgyXHF75RSjEbez/0.1/notemplate)] (http://orobo.go.ro:3500/filem/mcQgyXHF75RSjEbez)
 
 Straturile sunt prezentate ca dreptunghiuri colorate pal, în partea dreaptă a ecranului.
 
