@@ -383,7 +383,7 @@ Cu această caracteristică puternic putem face chiar spirale.
 
 ###### [![](http://orobo.go.ro:3500/file/AnNnDaf2HrmyHBTYE/0.04/notemplate)](http://orobo.go.ro:3500/filem/AnNnDaf2HrmyHBTYE) Linie simetria Group
 
-! [![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [[](http://orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
+[![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [![](http://orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
 
 Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie pentru construirea de clone Simetric ale căii, în raport cu linia.
 
@@ -392,7 +392,7 @@ Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie
 
 ###### [![](http://orobo.go.ro:3500/file/jLXYjXxyTTecoYv9C/0.04/notemplate)](http://orobo.go.ro:3500/filem/jLXYjXxyTTecoYv9C) Articol Array Group
 
-! [![](http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)](http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [[](http://orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [![](http://orobo.go.ro:3500/file/iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
+[![](http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)](http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [![](http://orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [![](http://orobo.go.ro:3500/file/iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
 
 Creați un __Parametrized Group__ folosind calea aleasă pentru construirea de clone ale căii aranjate într-un format de matrice / matrice.
 
