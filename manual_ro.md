@@ -42,7 +42,7 @@ Oroboro este o platformă deschisă pentru proiectarea colaborativă în SVG (gr
 
 * Toate problemele legate de scalarea la diferite rezoluții (pentru proiectarea aplicațiilor mobile, componente de jocuri etc.) au dispărut. Pot fi scalate la infinit!
 * Nu există pixeli urâţi când măriți
-* [Semantic Web] (http://www.w3.org/standards/semanticweb/) prietenos
+* [Semantic Web](http://www.w3.org/standards/semanticweb/) prietenos
 * Posibilități nelimitate de extindere: animație, benzi desenate, atlase cu componente SVG și straturi de conectori și etichete.
 
 ## Open Design & Open Source
@@ -54,7 +54,7 @@ Noi dorim să construim o comunitate de design axată pe abilitarea de colaborar
 
 ## Cum să incepeţi
 
-* [Creaţi un cont] (http://orobo.go.ro:3500/) și clonaţi un fișier din FileBrowser cu [![](http://orobo.go.ro:3500/file/menuItemClone/0.04 )](http://orobo.go.ro:3500/filem/menuItemClone) sau duceţi-vă pe [Playground] (http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
+* [Creaţi un cont](http://orobo.go.ro:3500/) și clonaţi un fișier din FileBrowser cu [![](http://orobo.go.ro:3500/file/menuItemClone/0.04 )](http://orobo.go.ro:3500/filem/menuItemClone) sau duceţi-vă pe [Playground](http://orobo.go.ro:3500/filem/eGfQyh6jCqxeEYmex)
 
 ![](http://orobo.go.ro:3500/images/tutorial/addElement.png)
 
@@ -109,7 +109,7 @@ Aceasta este calea folderului curent, cu rădăcina Oroboro ca primul miez.
 ###### [![](http://orobo.go.ro:3500/file/7fFtAL9AgJaWp9G7q/0.04)](http://orobo.go.ro:3500/filem/7fFtAL9AgJaWp9G7q) Cale simplă
 
 * Doar linii drepte: 'M870 512L153 925L153 98L870 512Z'
-* Important pentru a face [operații booleene] (http://en.wikipedia.org/wiki/Boolean_operations_on_polygons))
+* Important pentru a face [operații booleene](http://en.wikipedia.org/wiki/Boolean_operations_on_polygons))
 
 ###### [![](http://orobo.go.ro:3500/file/eAywEx5e5cNwe6BpC/0.04)](http://orobo.go.ro:3500/filem/eAywEx5e5cNwe6BpC) Cale Complexă
 
@@ -135,7 +135,7 @@ De exemplu, `Math.cos (7/4 * x)` este funcția utilizată pentru
 
 [![](http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.2)](http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S)
 
-Mai multe funcții pentru spirală archimedeană și trandafiri polari la [graficele-of-polare ecuații] (http://www.mathamazement.com/Lessons/Pre-Calculus/06_Additional-Topics-in-Trigonometry/graphs-of-polar-equations .html). Asigurați-vă că vă oferă o gamă suficient de mare pentru unghiul polar theta.
+Mai multe funcții pentru spirală archimedeană și trandafiri polari la [graficele-of-polare ecuații](http://www.mathamazement.com/Lessons/Pre-Calculus/06_Additional-Topics-in-Trigonometry/graphs-of-polar-equations .html). Asigurați-vă că vă oferă o gamă suficient de mare pentru unghiul polar theta.
 
 
 ##### [![](http://orobo.go.ro:3500/file/5zk5HoNdJXisEcYMD/0.04)](http://orobo.go.ro:3500/filem/5zk5HoNdJXisEcYMD) Formulele
@@ -204,9 +204,9 @@ Punctul de control al mouse-ului prin (după selectarea unui element, faceți cl
 
 * Puncte de tragere de cale și curba atractori
 * Șterge puncte de cale - dublu click pe [![](http://orobo.go.ro:3500/file/P2BZPG7qy42sWFrFA/0.02)](http://orobo.go.ro:3500/filem/P2BZPG7qy42sWFrFA)
-* Șterge curba - dublu click pe una din curba lui (http://orobo.go.ro:3500/filem/ [[] (http://orobo.go.ro:3500/file/Qys966QrtRMGcYRDK/0.02)!] Qys966QrtRMGcYRDK)
-* Adaugă simplu punct (linie dreaptă) - click pe (http://orobo.go.ro:3500/filem/ [[] (http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!] 4Wb7jMkaZxEBFwkqD)
-* Adaugă punctul curba (2 curbe) - Shift + click pe [[] (http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!] (Http://orobo.go.ro:3500/ filem / 4Wb7jMkaZxEBFwkqD)
+* Șterge curba - dublu click pe una din curba lui (http://orobo.go.ro:3500/filem/ [[](http://orobo.go.ro:3500/file/Qys966QrtRMGcYRDK/0.02)!] Qys966QrtRMGcYRDK)
+* Adaugă simplu punct (linie dreaptă) - click pe (http://orobo.go.ro:3500/filem/ [[](http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!] 4Wb7jMkaZxEBFwkqD)
+* Adaugă punctul curba (2 curbe) - Shift + click pe [[](http://orobo.go.ro:3500/file/4Wb7jMkaZxEBFwkqD/0.02)!](http://orobo.go.ro:3500/ filem / 4Wb7jMkaZxEBFwkqD)
 
 
 Punctul de control al controalelor din meniul (Puncte submeniu) (!) - fiecare punct poate fi mutat la coordonatele furnizate.
@@ -358,7 +358,7 @@ Reverse ordinea punctelor de traseu.
 
 * selectați calea, apoi faceți clic pe `reverse` (meniu de control)
 
-(Http://orobo.go.ro:3500/filem/ngiimZYX6f5FtJdY2) Alăturați-vă ###### [[] (http://orobo.go.ro:3500/file/ngiimZYX6f5FtJdY2/0.04/notemplate)!] Căi
+(Http://orobo.go.ro:3500/filem/ngiimZYX6f5FtJdY2) Alăturați-vă ###### [[](http://orobo.go.ro:3500/file/ngiimZYX6f5FtJdY2/0.04/notemplate)!] Căi
 
 Join 1 /> căi într-o singură formă cu subpaths.
 
@@ -374,7 +374,7 @@ subpaths separate pentru a forma elemente separate.
 
 Creați un __Parametrized Group__ folosind calea selectată și un punct cu coordonate x și y pentru construirea de clone Simetric ale căii, în raport cu punctul dat.
 
-! [![](http://orobo.go.ro:3500/file/AZrdxkdEjk3yCgLpJ/0.2/notemplate)](http://orobo.go.ro:3500/filem/AZrdxkdEjk3yCgLpJ) [[] (http: //orobo.go.ro:3500/file/A5TCgpQdRXeQus9iu/0.2/notemplate)](http://orobo.go.ro:3500/filem/A5TCgpQdRXeQus9iu) [![](http://orobo.go.ro : [! [] 3500 / file / nPW3sGvBa57m87d7d / 0,2 / notemplate)](http://orobo.go.ro:3500/filem/nPW3sGvBa57m87d7d) (http://orobo.go.ro:3500/file/SzvW7PjwnchXPFwnj/ 0,2 / notemplate)](http://orobo.go.ro:3500/filem/SzvW7PjwnchXPFwnj)
+! [![](http://orobo.go.ro:3500/file/AZrdxkdEjk3yCgLpJ/0.2/notemplate)](http://orobo.go.ro:3500/filem/AZrdxkdEjk3yCgLpJ) [[](http: //orobo.go.ro:3500/file/A5TCgpQdRXeQus9iu/0.2/notemplate)](http://orobo.go.ro:3500/filem/A5TCgpQdRXeQus9iu) [![](http://orobo.go.ro : [! [] 3500 / file / nPW3sGvBa57m87d7d / 0,2 / notemplate)](http://orobo.go.ro:3500/filem/nPW3sGvBa57m87d7d) (http://orobo.go.ro:3500/file/SzvW7PjwnchXPFwnj/ 0,2 / notemplate)](http://orobo.go.ro:3500/filem/SzvW7PjwnchXPFwnj)
 
 * Selectați calea, apoi faceți clic pe `pointSymmetry` (meniu de control)
 * Grupul parametrizat va avea toate caracteristicile prezentate în subcapitolul parametrizat Group.
@@ -383,7 +383,7 @@ Cu această caracteristică puternic putem face chiar spirale.
 
 ###### [![](http://orobo.go.ro:3500/file/AnNnDaf2HrmyHBTYE/0.04/notemplate)](http://orobo.go.ro:3500/filem/AnNnDaf2HrmyHBTYE) Linie simetria Group
 
-! [![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [[] (http: // orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
+! [![](http://orobo.go.ro:3500/file/h2bNyDpySrwrsG5N2/0.2)](http://orobo.go.ro:3500/filem/h2bNyDpySrwrsG5N2) [[](http: // orobo.go.ro:3500/file/KBtAqH623Src52i96/0.2)](http://orobo.go.ro:3500/filem/KBtAqH623Src52i96) [![](http://orobo.go.ro:3500/file /zrsJTCFpCXKYh8dxE/0.2)](http://orobo.go.ro:3500/filem/zrsJTCFpCXKYh8dxE)
 
 Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie pentru construirea de clone Simetric ale căii, în raport cu linia.
 
@@ -392,7 +392,7 @@ Creați un __Group Parametrizat__ folosind calea selectată și o anumită linie
 
 ###### [![](http://orobo.go.ro:3500/file/jLXYjXxyTTecoYv9C/0.04/notemplate)](http://orobo.go.ro:3500/filem/jLXYjXxyTTecoYv9C) Articol Array Group
 
-! [![](http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)](http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [[] (http: // orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [![](http://orobo.go.ro:3500/file /iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
+! [![](http://orobo.go.ro:3500/file/2CC2YmbKH9pzL4rb8/0.2)](http://orobo.go.ro:3500/filem/2CC2YmbKH9pzL4rb8) [[](http: // orobo.go.ro:3500/file/xkYrgQSscp4yoKM9v/0.2)](http://orobo.go.ro:3500/filem/xkYrgQSscp4yoKM9v) [![](http://orobo.go.ro:3500/file /iQdYEY4DHG5EJkTLd/0.2)](http://orobo.go.ro:3500/filem/iQdYEY4DHG5EJkTLd)
 
 Creați un __Parametrized Group__ folosind calea aleasă pentru construirea de clone ale căii aranjate într-un format de matrice / matrice.
 
@@ -415,7 +415,7 @@ Acest puzzle a fost creat folosind Item Array cu [![](http://orobo.go.ro:3500/fi
 
 [![](http://orobo.go.ro:3500/file/z5CTy2uBPegog5Bnv/0.2)](http://orobo.go.ro:3500/filem/z5CTy2uBPegog5Bnv)
 
-Această spirală a fost creat folosind punctul simetriei și Funcții Polar. [![](http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.1)](http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S) este generat de `Math.cos (7 / 4 * x) `(arunca o privire la intervalul unghiului polar). Dacă vom selecta această cale și faceți clic pe `genPath` din meniu, vom obține un obiect cale clasică, care poate fi utilizat cu toate acestea ne dorim: [[] (http://orobo.go.ro:3500/file/ssMswfKiZfWLseY3b/! 0,1)](http://orobo.go.ro:3500/filem/ssMswfKiZfWLseY3b). În acest caz, prin selectarea și făcând clic pe `pointSymmetry` din meniu.
+Această spirală a fost creat folosind punctul simetriei și Funcții Polar. [![](http://orobo.go.ro:3500/file/i5CppdgDDB5LpKn3S/0.1)](http://orobo.go.ro:3500/filem/i5CppdgDDB5LpKn3S) este generat de `Math.cos (7 / 4 * x) `(arunca o privire la intervalul unghiului polar). Dacă vom selecta această cale și faceți clic pe `genPath` din meniu, vom obține un obiect cale clasică, care poate fi utilizat cu toate acestea ne dorim: [[](http://orobo.go.ro:3500/file/ssMswfKiZfWLseY3b/! 0,1)](http://orobo.go.ro:3500/filem/ssMswfKiZfWLseY3b). În acest caz, prin selectarea și făcând clic pe `pointSymmetry` din meniu.
 
 ##### Operațiuni Path simple
 
