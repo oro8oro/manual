@@ -37,9 +37,9 @@ tg.render(1);
 
 ```
 
-svg.tgraph(<width>, <height>)
+svg.tgraph( __width__, __height__)
 
-.t(<turtle commands string>)
+.t(__turtle commands string__)
 
 .render(<force>)
 
@@ -54,11 +54,11 @@ tg.render(1);
 
 ```
 
-svg.lsys(<width>, <height>)
+svg.lsys( __width__, __height__ )
 
-.iter(<start>, <L-System rules>, <no. of iterations>, <length of forward>, <angle in radians>)
+.iter( __start__, __L-System rules__, __no. of iterations__, __length of forward__, __angle in radians__)
 
-.render(<force>)
+.render( __force__ )
 
 ### Puppet
 The puppet function for construction.
@@ -68,8 +68,8 @@ var tg =svg.puppet(424,424, "show","/file/2bQfWx8fDbWMgddmj").mirror().attr({str
 //console.log(tg);
 ```
 
-svg.puppet(<x>, <y>, <stance>, <url for head>)
+svg.puppet( __x__, __y__, __stance__, __url for head image__)
 
-.say(<string for talk balloon>)
+.say(__string for talk balloon__)
 
 The puppet is the basis for the future comic strips and animations plugins.
