@@ -38,7 +38,9 @@ tg.render(1);
 ```
 
 svg.tgraph(<width>, <height>)
+
 .t(<turtle commands string>)
+
 .render(<force>)
 
 ### L-System
@@ -53,7 +55,9 @@ tg.render(1);
 ```
 
 svg.lsys(<width>, <height>)
+
 .iter(<start>, <L-System rules>, <no. of iterations>, <length of forward>, <angle in radians>)
+
 .render(<force>)
 
 ### Puppet
@@ -65,6 +69,7 @@ var tg =svg.puppet(424,424, "show","/file/2bQfWx8fDbWMgddmj").mirror().attr({str
 ```
 
 svg.puppet(<x>, <y>, <stance>, <url for head>)
+
 .say(<string for talk balloon>)
 
 The puppet is the basis for the future comic strips and animations plugins.
