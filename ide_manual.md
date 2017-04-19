@@ -12,7 +12,7 @@
 ```
 var tg =svg.lsys(1024,1024).attr({stroke:"#000","stroke-width":.5,fill:"#fff"});
 
-tg.iter("F", {F: "G>F>G", G: "FFY>",Y:"FY>FY"},5,4,1/4);
+tg.iter("F", {F: "F<G<<G>F>>FF>G<", G: ">F<GG<<G<F>>F>G"},4,4,1/6);
 
 //var tg =svg.tgraph(1024,1024).attr({stroke:"#000"});
 //tg.t("M0,0<90F50<90F1024<190F50<90F1024Z");
