@@ -41,7 +41,7 @@ svg.tgraph( __width__, __height__)
 
 .t(__turtle commands string__)
 
-.render(<force>)
+.render(__force__)
 
 ### L-System
 The lsys function for setup, iter for l-sys commands, render for results.
