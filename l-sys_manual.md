@@ -62,3 +62,17 @@ tg.iter("X", {Y: ">XF<YFY<FX>", X: "<YF>XFX>FY<"},6,4,1/4);
 //console.log(tg);
 tg.render(1);
 ```
+
+## Examples
+
+```
+
+tg.iter("<90F", {F: "F>F<F<F>F"},4,5,1/4);
+tg.iter(">F", {F: ">G<F<G>", G:"<F>G>F<"},6,5,1/6);
+// Moore curve https://en.wikipedia.org/wiki/Moore_curve
+tg.iter("LFL>F>LFL", {L: "<RF>LFL>FR<", R: ">LF<RFR<FL>"},4,4,1/4);
+
+tg.iter("F", {F: ">F<<F>"},10,4,1/8);
+
+tg.iter("F", {F: "F<F>>F<F"},6,4,1/4.4);
+```
