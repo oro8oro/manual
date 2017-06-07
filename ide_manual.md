@@ -24,6 +24,52 @@ tg.render(1);
 
 ```
 
+## Loading and Saving to Oroboro Editor
+
+```
+
+var toOro = function(path1,path2id){
+$.ajax({
+  url: "http://orobo.go.ro:3500/api/item/"+path2id,
+  "async": true,
+ "crossDomain": true,
+  "headers": {
+   "content-type": "application/json",
+   "cache-control": "no-cache"
+ },
+  method:"POST",
+  //processData: false,
+data: '{"d":"'+path1.attr("d")+'"}',
+//dataType: "json"
+//dataType: "json",
+contentType: "application/json"
+}).done(function() {
+  console.log("ok")
+});
+
+}
+
+
+//toOro(tg,"PDuXckg3Qtk7pFXtk")
+
+
+var fromOro= function(id){
+    $.getJSON(
+  "http://orobo.go.ro:3500/api/item/"+id,
+  function(data){
+      var path =svg.path(data.pointList)
+      path.attr(data.palette)
+      path.attr({id: data._id})
+  });
+
+}
+
+// examples of use
+toOro(tg,"PDuXckg3Qtk7pFXtk")
+fromOro("PDuXckg3Qtk7pFXtk")
+
+
+```
 
 ## API
 ### Turtle Graphics
