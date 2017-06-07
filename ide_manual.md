@@ -27,10 +27,11 @@ tg.render(1);
 ## Loading and Saving to Oroboro Editor
 
 ```
+var Oro = "orobo.go.ro:3500" // change it to your own install of Oroboro server
 
 var toOro = function(path1,path2id){
 $.ajax({
-  url: "http://orobo.go.ro:3500/api/item/"+path2id,
+  url: "http://"+Oro+"/api/item/"+path2id,
   "async": true,
  "crossDomain": true,
   "headers": {
@@ -49,13 +50,9 @@ contentType: "application/json"
 
 }
 
-
-//toOro(tg,"PDuXckg3Qtk7pFXtk")
-
-
 var fromOro= function(id){
     $.getJSON(
-  "http://orobo.go.ro:3500/api/item/"+id,
+  "http://"+Oro+"/api/item/"+id,
   function(data){
       var path =svg.path(data.pointList)
       path.attr(data.palette)
