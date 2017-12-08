@@ -2,7 +2,7 @@
 
 ## How to Start
 
-* Go to  [Oro IDE](http://orobo.go.ro:3500/file/8tKjNXB6TuxBSsf5c)
+* Go to  [Oro IDE](http://orobo.go.ro:5500/file/8tKjNXB6TuxBSsf5c)
 * Make sure you have some code to try in the lefthand side
 * Modify the code by uncommenting/commenting code lines
 * Learn by trial
@@ -27,7 +27,7 @@ tg.render(1);
 ## Loading and Saving to Oroboro Editor
 
 ```
-var Oro = "orobo.go.ro:3500" // change it to your own install of Oroboro server
+var Oro = "orobo.go.ro:5500" // change it to your own install of Oroboro server
 
 var toOro = function(path1,path2id){
 $.ajax({
